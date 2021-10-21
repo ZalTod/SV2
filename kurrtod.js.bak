@@ -24,7 +24,7 @@ const starts = async (dha = new WAConnection()) => {
 		whitespaceBreak: false
 	}), 'cyan'))
 	console.log(color('[SOURCE CODE INI DIJAGA DAN DI LINDUNGI OLEH KURRXD\n\n', 'orange'), color('\n======TERIMKASIH BANYAK KEPADA======\n•MHANKBARBAR\n•NINO\n•IKYADS\n•KurrXd\n•DAFFA PATNER SAYA\n•COPAS TEAM\n•PENYEDIA APIKEY\n•SELURUH CREATOR BOT\n•SELURUH SUBSCRIBERKU\n•SELURUH BUYER SCRIP INI', 'yellow'))
-	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©ZALTOD 085875156338😗', 'pink'))
+	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©ZALTOD 6285875156338😗', 'pink'))
 	kurr.browserDescription = ["ZAL BOTZ", "Chrome", "3.0.0"];
 
 	// Menunggu QR
@@ -47,7 +47,7 @@ const spinner = {
 
 	//connect
 	kurr.on('open', () => {
-		console.log(color('[ SHERLYNN ]', 'purple'), color('BOT SUDAH AKTIF SELAMAT MENGGUNAKAN'));
+		console.log(color('[ ZalBOT ]', 'purple'), color('BOT SUDAH AKTIF SELAMAT MENGGUNAKAN'));
 	})
 
 	// session
