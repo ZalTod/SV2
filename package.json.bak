@@ -1,5 +1,5 @@
 {
-  "name": "SHERLYNN-BOTZ",
+  "name": "ZAL-BOTZ",
   "version": "1.0.0",
   "description": "JANGAN DI UBAH TOD LU CUMAN NUMPANG",
   "main": "main.js",
@@ -8,9 +8,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node kurrtod.js"
+    "start": "node zaltod.js"
   },
-  "author": "nino,iky,KurrXd",
+  "author": "ZalTod",
   "dependencies": {
   "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",
