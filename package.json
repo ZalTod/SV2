@@ -1,5 +1,5 @@
 {
-  "name": "SHERLYNN-BOTZ",
+  "name": "ZAL-BOTZ",
   "version": "1.0.0",
   "description": "JANGAN DI UBAH TOD LU CUMAN NUMPANG",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node yudhacopas.js"
   },
-  "author": "nino,iky,KurrXd",
+  "author": "nino,iky,ZBOT",
   "dependencies": {
   "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "axios": "^0.21.1",
